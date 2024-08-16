@@ -1,4 +1,4 @@
 # AdventureGame
 as the title says
 
-pretty much just rhn through the code and enjoy!
+pretty much just run through the code and enjoy!
