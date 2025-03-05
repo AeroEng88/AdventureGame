@@ -132,6 +132,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AdventureGame\classes.h" />
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="AdventureGame.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
